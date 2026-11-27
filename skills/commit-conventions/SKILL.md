@@ -28,8 +28,7 @@ says otherwise.
 
 ## Message style
 
-- The title-line starts with a capital letter, is 49 characters(or less), and 
-  has yes punctuation at the end
+- The title-line starts with a capital letter and is 50 characters(or less)
 - Plain English: say what the change means and why, not a log of edits.
 - Short: a subject plus at most two or three short plain paragraphs, with a
   blank line between subject and body. Start from the short form; for a small
